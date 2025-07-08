@@ -1,0 +1,3 @@
+tfc_organization_name = ""
+tfc_workspace_name    = ""
+# TODO allow multiple workspaces ["dev", "prod"]
